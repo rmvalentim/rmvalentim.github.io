@@ -503,6 +503,7 @@ ul.social_icon li a:hover {
 
 .protien figure {
      margin: 0;
+     min-height: 330px;
 }
 
 .protien figure img {
